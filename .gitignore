@@ -1,0 +1,10 @@
+obj/
+dist/
+release/
+*.log
+*.dll
+*.asi
+*.lib
+*.exp
+*.pdb
+*.ilk
